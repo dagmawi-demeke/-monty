@@ -21,7 +21,8 @@
 		  {"pstr", pstr},   \
 		  {"rotl", rotl},   \
 		  {"rotr", rotr},   \
-	      {                     \									NULL, NULL      \
+	      {                     \
+	              NULL, NULL	    \
               }                     \
 	}
 
